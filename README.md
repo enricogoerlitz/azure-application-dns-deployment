@@ -4,9 +4,9 @@
 
 This project explores how to configure custom DNS settings for applications deployed across different Azure services. It showcases three deployment models, each bound to a custom domain, allowing developers and architects to understand the process of domain binding, DNS record setup, and service-specific configurations:
 
-- [App Service Deployment](https://app-service-deployment.enricogoerlitz.com/)
-- [Container Apps Deployment](https://container-apps-deployment.enricogoerlitz.com/)
-- [Front Door Deployment](https://front-door-deployment.enricogoerlitz.com/)
+- https://app-service-deployment.enricogoerlitz.com/
+- https://container-apps-deployment.enricogoerlitz.com/
+- https://front-door-deployment.enricogoerlitz.com/
 
 All deployments demonstrate how to use custom subdomains managed via AWS Route 53 for DNS hosting, emphasizing interoperability and cross-cloud DNS management.
 
